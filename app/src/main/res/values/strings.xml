@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">TweeterZalora</string>
+    <string name="input_placeholder">Message</string>
+    <string name="input_send_btn">Send</string>
+
+    <string name="input_invalid">Message invalid</string>
+    <string name="input_empty">Message cannot be empty</string>
+    <string name="output_message">Output Message</string>
+</resources>
